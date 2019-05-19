@@ -1,0 +1,8 @@
+{
+  "portalQA": "https://portal-qa.avlr.sh",
+  "userName": "MT-AA-12",
+  "password": "aditya@123",
+  "loginPageTitle": "Avalara Identity",
+  "companyLandingTitle": "Welcome",
+  "transactionDescription": "View transactions in AvaTax. You can edit or add a transaction document to bring them up to date."
+}
